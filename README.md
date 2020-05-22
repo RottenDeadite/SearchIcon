@@ -9,4 +9,4 @@ Ey_SearchIcon::searchicon.phtml
 The searchicon.phtml template file will create a DIV into which an icon can be placed using CSS. This template will
 also load the default Magento 2 dropdownDialog jQuery UI widget.
 This module does very little by default. It is intended that the developer will extend this module to do whatever
-the client's theme demands. It is in no way limited to use on the Search Icon in a siteframe's header.
+the client's theme demands.
